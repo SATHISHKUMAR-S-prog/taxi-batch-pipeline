@@ -51,5 +51,3 @@ https://d37ci6vzurychx.cloudfront.net/misc/taxi_zone_lookup.csv
 - Add orchestration (Airflow / Databricks Jobs)
 
 ---
-
-Created automatically for GitHub upload.
